@@ -50,8 +50,6 @@ function moveChild() {
     }
 }
 
-
-
 moveChild()
 
 window.addEventListener("resize", moveChild)
